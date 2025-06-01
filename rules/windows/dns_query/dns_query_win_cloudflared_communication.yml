@@ -1,6 +1,6 @@
 title: Cloudflared Tunnels Related DNS Requests
 id: a1d9eec5-33b2-4177-8d24-27fe754d0812
-status: experimental
+status: test
 description: Detects DNS query requests to Cloudflared tunnels domains.
 references:
     - https://www.guidepointsecurity.com/blog/tunnel-vision-cloudflared-abused-in-the-wild/
