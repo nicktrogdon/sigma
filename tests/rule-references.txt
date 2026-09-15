@@ -3509,3 +3509,13 @@ https://github.com/cloudflare/cloudflared/releases
 https://github.com/poweradminllc/PAExec
 https://www.deepinstinct.com/blog/nofilter-abusing-windows-filtering-platform-for-privilege-escalation
 https://ss64.com/mac/system_profiler.html
+https://github.com/redcanaryco/atomic-red-team/blob/4d6c4e8e23d465af7a2388620cfe3f8c76e16cf0/atomics/T1082/T1082.md
+https://learn.microsoft.com/en-us/windows/security/threat-protection/auditing/event-6416
+https://www.sans.org/cyber-security-summit/archives
+https://unit42.paloaltonetworks.com/chromeloader-malware/
+https://gist.github.com/nasbench/9a1ba4bc7094ea1b47bc42bf172961af
+https://www.virustotal.com/gui/file/d6f6bc10ae0e634ed4301d584f61418cee18e5d58ad9af72f8aa552dc4aaeca3/behavior
+https://twitter.com/MsftSecIntel/status/1737895710169628824
+https://blogs.vmware.com/security/2023/11/jupyter-rising-an-update-on-jupyter-infostealer.html
+https://learn.microsoft.com/en-us/windows/win32/msi/event-logging
+https://web.archive.org/web/20160928212230/https://www.adaptforward.com/2016/09/using-netshell-to-execute-evil-dlls-and-persist-on-a-host/
