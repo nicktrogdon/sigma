@@ -3509,3 +3509,13 @@ https://github.com/cloudflare/cloudflared/releases
 https://github.com/poweradminllc/PAExec
 https://www.deepinstinct.com/blog/nofilter-abusing-windows-filtering-platform-for-privilege-escalation
 https://ss64.com/mac/system_profiler.html
+https://doublepulsar.com/follina-a-microsoft-office-code-execution-vulnerability-1a47fce5629e
+https://www.aon.com/cyber-solutions/aon_cyber_labs/yours-truly-signed-av-driver-weaponizing-an-antivirus-driver/
+https://twitter.com/MsftSecIntel/status/1737895710169628824
+https://linux.die.net/man/8/useradd
+https://www.pwc.com/gx/en/issues/cybersecurity/cyber-threat-intelligence/yellow-liderc-ships-its-scripts-delivers-imaploader-malware.html
+https://www.virustotal.com/gui/file/483fafc64a2b84197e1ef6a3f51e443f84dc5742602e08b9e8ec6ad690b34ed0/behavior
+https://www.cisa.gov/news-events/cybersecurity-advisories/aa23-144a
+https://gist.github.com/nasbench/9a1ba4bc7094ea1b47bc42bf172961af
+https://www.virustotal.com/gui/file/05a2adb266ec6c0ba9ed176d87d8530e71e845348c13caf9f60049760c312cd3/behavior
+https://www.cisco.com/c/en/us/td/docs/ios-xml/ios/security/a1/sec-a1-cr-book/sec-a1-cr-book_chapter_0111.html
